@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="158724" started-at="2019-08-24T08:57:59Z" finished-at="2019-08-24T09:00:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="158724" started-at="2019-08-24T08:57:59Z" finished-at="2019-08-24T09:00:38Z">
+      <class name="TestCases.OrderingTv">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.OrderingTv@239963d8]" name="setup" is-config="true" duration-ms="24326" started-at="2019-08-24T08:57:59Z" finished-at="2019-08-24T08:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchingIteamTest()[pri:0, instance:TestCases.OrderingTv@239963d8]" name="searchingIteamTest" duration-ms="28385" started-at="2019-08-24T08:58:24Z" finished-at="2019-08-24T08:58:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchingIteamTest -->
+        <test-method status="PASS" signature="selectingParticularIteamTest()[pri:1, instance:TestCases.OrderingTv@239963d8]" name="selectingParticularIteamTest" duration-ms="57625" started-at="2019-08-24T08:58:52Z" finished-at="2019-08-24T08:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingParticularIteamTest -->
+        <test-method status="PASS" signature="selectingIteamAddingToCart()[pri:2, instance:TestCases.OrderingTv@239963d8]" name="selectingIteamAddingToCart" duration-ms="28973" started-at="2019-08-24T08:59:50Z" finished-at="2019-08-24T09:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingIteamAddingToCart -->
+        <test-method status="PASS" signature="proceedingToBuyTest()[pri:3, instance:TestCases.OrderingTv@239963d8]" name="proceedingToBuyTest" duration-ms="19371" started-at="2019-08-24T09:00:19Z" finished-at="2019-08-24T09:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedingToBuyTest -->
+      </class> <!-- TestCases.OrderingTv -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
